@@ -23,7 +23,7 @@ The repo is located [here][1]
 [7]: http://bl.ocks.org/zanarmstrong/05c1e95bf7aa16c4768e
 [8]: https://bl.ocks.org/bytesbysophie/0311395c1e082f98e67efaf2c7f9555b
 
-## Unit 16 | Assignment - Data Journalism and D3
+## Assignment - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -84,5 +84,3 @@ This selection of code is displayed by to Warren Ross @ [this GitHub][1].
 The content was derived from an assignment distributed by USC Data Analytics Bootcamp and Trilogy. Copyright anotated below:
 
 Data Boot Camp © 2018. All Rights Reserved.
-
-[1]: https://github.com/RandallPark/USC_Homework-13_D3 "my repo"
